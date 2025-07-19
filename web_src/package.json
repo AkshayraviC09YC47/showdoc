@@ -24,7 +24,7 @@
     "url-search-params-polyfill": "^2.0.3",
     "vue": "^2.6.12",
     "vue-clipboard2": "^0.2.1",
-    "vue-i18n": "5.0.3",
+    "vue-i18n": "9.14.5",
     "vue-router": "^3.5.1",
     "vue-text-highlight": "^2.0.10",
     "vuedraggable": "^2.24.3",
